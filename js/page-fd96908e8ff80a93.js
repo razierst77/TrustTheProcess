@@ -71,7 +71,7 @@
           blurHeight: 8,
         },
         s = {
-          src: "/images/img3.db86c5b4.jpg",
+          src: "/images/0b0e98b2bc1a7640e13aa4bb93fda02d.png",
           height: 960,
           width: 540,
           blurDataURL:
