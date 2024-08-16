@@ -71,7 +71,7 @@
           blurHeight: 8,
         },
         s = {
-          src: "/images/0b0e98b2bc1a7640e13aa4bb93fda02d.png",
+          src: "/images/img3.db86c5b4.jpg",
           height: 960,
           width: 540,
           blurDataURL:
@@ -169,7 +169,7 @@
       "use strict";
       E.r(g),
         (g.default = {
-          src: "/media/96f88dbf757bcd39dda888187eb8dbe8.png",
+          src: "/media/banner.03d42e4d.jpg",
           height: 420,
           width: 1280,
           blurDataURL:
