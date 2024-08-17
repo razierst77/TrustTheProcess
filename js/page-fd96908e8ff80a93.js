@@ -35,7 +35,7 @@
           blurHeight: 8,
         },
         B = {
-          src: "/images/22cb224f09096b0e75ae38e0a49718cb.png",
+          src: "/images/96f88dbf757bcd39dda888187eb8dbe8.png",
           height: 1280,
           width: 930,
           blurDataURL:
@@ -53,7 +53,7 @@
           blurHeight: 8,
         },
         C = {
-          src: "/images/395e607939dd68d8e0355877b52c974e.png",
+          src: "/images/new_2.jpg",
           height: 295,
           width: 236,
           blurDataURL:
