@@ -53,7 +53,7 @@
           blurHeight: 8,
         },
         C = {
-          src: "/images/new_2.jpg",
+          src: "/images/profile.png",
           height: 295,
           width: 236,
           blurDataURL:
